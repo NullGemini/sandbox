@@ -13,3 +13,7 @@ console.log(y); // undefined
 var z = null;
 
 console.log(z); // null
+
+console.log("undefined" === typeof y);
+
+console.log("undefined" === typeof z);
