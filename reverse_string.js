@@ -1,4 +1,8 @@
+/* 
 
+Question was how to reverse a string
+
+*/
 
 function reverseString (input) {
     var result = "";

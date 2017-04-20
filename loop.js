@@ -1,3 +1,9 @@
+/*
+Another Interview Question
+Given the code in line 11 What are the initial values of a & c to have b = 4 and a = 32
+
+*/
+
 var a,b,c;
 
 a = 2; //???
