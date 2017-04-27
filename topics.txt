@@ -24,4 +24,4 @@ functional programming vs. OOP
 
 Classical Inheritance vs. Composition
 
-Javascript has a 
+Javascript has a statement
