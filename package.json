@@ -1,17 +1,20 @@
 {
-	"name": "sandbox",
-	"version": "1.0.0",
-	"description": "Just a bunch of random nodeJS files",
-	"main": "index.js",
-	"scripts": {
-		"start": "node index.js",
-		"elipse": "node elipse.js",
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/NullGemini/sandbox.git"
-	},
-	"author": "Adam Mugnaini",
-	"license": "ISC"
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Just a bunch of random nodeJS files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "elipse": "node elipse.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NullGemini/sandbox.git"
+  },
+  "author": "Adam Mugnaini",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
 }
