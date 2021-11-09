@@ -6,15 +6,24 @@
   "scripts": {
     "start": "node index.js",
     "elipse": "node elipse.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NullGemini/sandbox.git"
+    "url": "git+https://github.com/NullGemini/sandbox.git"
   },
   "author": "Adam Mugnaini",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^1.6.3"
+    "axios": "^0.24.0",
+    "node-fetch": "^1.7.3"
+  },
+  "bugs": {
+    "url": "https://github.com/NullGemini/sandbox/issues"
+  },
+  "homepage": "https://github.com/NullGemini/sandbox#readme",
+  "devDependencies": {
+    "jasmine": "^3.10.0",
+    "mocha": "^9.1.3"
   }
 }
